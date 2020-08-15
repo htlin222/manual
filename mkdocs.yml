@@ -10,6 +10,7 @@ repo_url: https://github.com/squidfunk/mkdocs-material
 repo_name: squidfunk/mkdocs-material
 plugins:
   - git-revision-date
+  - search
 extra:
   social:
     - icon: fontawesome/brands/medium
