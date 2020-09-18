@@ -1,6 +1,7 @@
 site_name: 內科筆記
 theme:
   name: material
+  favicon: images/favicon.ico
   palette:
     primary: indigo
   language: zh-TW
