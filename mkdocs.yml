@@ -1,9 +1,10 @@
-site_name: 內科筆記
+site_name: 蜴蜴內科
 theme:
   name: material
   favicon: images/favicon.ico
+  logo: images/logo.svg
   palette:
-    primary: indigo
+    primary: teal
   language: zh-TW
   features:
     - tabs
@@ -12,7 +13,41 @@ repo_name: htlin222/imnote
 plugins:
   - git-revision-date
   - search
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.critic:
+      mode: view
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+  - meta
+
+
 extra:
   social:
     - icon: fontawesome/brands/medium
       link: https://medium.com/as-a-med-student
+  disqus: imnote

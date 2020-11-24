@@ -1,6 +1,6 @@
 # 1. Electrocardiography
 
-# Approach (\*a systematic approach is vital\*)**
+# Approach (\*a systematic approach is \*)**
 
 • **Rate** (? tachy, brady) and **rhythm** (? relationship between P and QRS)
 
@@ -57,3 +57,6 @@ Figure 1-1 QRS axis
 **Congenital** (long QT syndrome): K, Na, Ca channelopathies (*Circ* 2013;127:126)
 
 **Misc**: CAD, CMP, bradycardia, high-grade AVB, hypothyroidism, hypothermia, BBB
+
+![image-20201120163949016](https://i.imgur.com/KU68zmW.png)
+
