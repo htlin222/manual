@@ -1,4 +1,4 @@
-site_name: 蜴蜴內科
+site_name: 和信內科手冊
 theme:
   name: material
   favicon: images/favicon.ico
@@ -8,8 +8,8 @@ theme:
   language: zh-TW
   features:
     - tabs
-repo_url: https://github.com/htlin222/imnote
-repo_name: htlin222/imnote
+repo_url: https://github.com/htlin222/kfyscc-manual
+repo_name: htlin222/kfyscc-manual
 plugins:
   - git-revision-date
   - search
@@ -46,8 +46,3 @@ markdown_extensions:
   - meta
 
 
-extra:
-  social:
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/as-a-med-student
-  disqus: imnote
