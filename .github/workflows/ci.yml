@@ -28,5 +28,6 @@ jobs:
           mkdocs-awesome-pages-plugin \
           mkdocs-git-revision-date-localized-plugin \
           mkdocs-meta-descriptions-plugin \
-          mkdocs-bibtex
+          mkdocs-bibtex \
+          pandoc
       - run: mkdocs gh-deploy --force
