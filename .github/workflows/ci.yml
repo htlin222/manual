@@ -29,6 +29,6 @@ jobs:
           mkdocs-git-revision-date-localized-plugin \
           mkdocs-meta-descriptions-plugin \
           mkdocs-bibtex \
-          pypandoc \
-          pandoc
+          pypandoc
+      - run: sudo apt-get install pandoc
       - run: mkdocs gh-deploy --force
