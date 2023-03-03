@@ -27,5 +27,6 @@ jobs:
           mkdocs-alias-plugin \
           mkdocs-awesome-pages-plugin \
           mkdocs-git-revision-date-localized-plugin \
-          mkdocs-meta-descriptions-plugin
+          mkdocs-meta-descriptions-plugin \
+          mkdocs-bibtex
       - run: mkdocs gh-deploy --force
