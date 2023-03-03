@@ -1,5 +1,6 @@
 site_name: 和信內科住院醫師手冊
-edit_uri: edit/main/docs/
+site_url: https://htlin222.github.io/kfsyscc-manual/
+edit_uri: edit/master/docs/
 theme:
   name: material
   icon:
