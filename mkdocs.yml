@@ -1,6 +1,7 @@
 site_name: 和信內科住院醫師手冊
 site_url: https://htlin222.github.io/kfsyscc-manual/
 edit_uri: edit/master/docs/
+site_description: "值班、臨床推理、學習資源、血液腫瘤科"
 theme:
   name: material
   icon:
@@ -54,6 +55,12 @@ plugins:
   - search
   - markmap
   - alias
+  - meta-descriptions:
+      export_csv: false
+      quiet: false
+      enable_checks: false
+      min_length: 50
+      max_length: 160
   - awesome-pages
   - git-revision-date-localized:
       enable_creation_date: true
