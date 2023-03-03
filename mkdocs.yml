@@ -87,6 +87,9 @@ plugins:
         - custom-skip-class-name
       auto_caption: false
       caption_position: bottom
+  - bibtex:
+      bib_file: "main.bib"
+      csl_file: "jama.csl"
 markdown_extensions:
   # Python Markdown
   - abbr

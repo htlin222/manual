@@ -9,8 +9,7 @@ date: "2023-03-03"
 # 和信醫院內科住院醫師手冊
 
 ## test
-test
-test
+[@velasquez2022hidden]
 
 ## hello
 Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
