@@ -29,5 +29,5 @@ jobs:
           mkdocs-git-revision-date-localized-plugin \
           mkdocs-meta-descriptions-plugin \
           mkdocs-bibtex \
-          pandoc
+          pypandoc
       - run: mkdocs gh-deploy --force
