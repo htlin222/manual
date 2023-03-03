@@ -31,5 +31,5 @@ jobs:
           mkdocs-meta-descriptions-plugin \
           mkdocs-bibtex \
           pypandoc
-      - run: apt-get install pandoc-citeproc
+      - run: sudo apt-get install pandoc-citeproc
       - run: mkdocs gh-deploy --force
