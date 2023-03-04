@@ -16,7 +16,7 @@ theme:
     view: material/eye
   custom_dir: overrides
   favicon: images/favicon.ico
-  logo: images/logo.svg
+  logo: images/favicon.ico
   language: zh-TW
   palette:
 
