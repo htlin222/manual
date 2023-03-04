@@ -40,6 +40,8 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   features:
+    - announce.dismiss
+    - header.autohide
     - navigation.path
     - navigation.tabs
     - navigation.sections
@@ -68,7 +70,6 @@ plugins:
   - awesome-pages
   - git-revision-date-localized:
       enable_creation_date: true
-  - enumerate-headings
   - social:
       cards_font: Noto Sans TC
   - tags
