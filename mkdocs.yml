@@ -1,9 +1,11 @@
-site_name: 和信內科住院醫師手冊
+site_name: 內科手冊
 site_description: "值班、臨床推理、學習資源、血液腫瘤科"
-site_url: https://htlin222.github.io/kfsyscc-manual/
+site_url: https://htlin222.github.io/manual/
 edit_uri: edit/master/docs/
-repo_url: https://github.com/htlin222/kfsyscc-manual
-repo_name: htlin222/kfsyscc-manual
+repo_url: https://github.com/htlin222/manual
+repo_name: htlin222/manual
+copyright: Copyright &copy; 2023 -  Hsieht-Ting Lin M.D. 🦎
+announcement: 你好我是臭
 extra:
   social:
     - icon: octicons/link-24
@@ -16,7 +18,7 @@ theme:
     view: material/eye
   custom_dir: overrides
   favicon: images/favicon.ico
-  logo: images/favicon.ico
+  logo: images/logo.png
   language: zh-TW
   palette:
 
@@ -94,7 +96,7 @@ plugins:
       caption_position: bottom
   - bibtex:
     # in config_dir
-      bib_file: "main.bib"
+      bib_file: "https://api.zotero.org/groups/4751389/collections/VQMBK9ZP/items?format=bibtex"
       csl_file: "jama.csl"
 markdown_extensions:
   # Python Markdown
@@ -106,7 +108,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-  # Python Markdown Extensions
+  # [Pymdown Extensions - PyMdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/)
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -134,3 +136,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - markdown.extensions.toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+      permalink: "\ue157"

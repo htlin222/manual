@@ -7,10 +7,10 @@ date: "2023-03-04"
 
 ## Install the dependencies
 
-- install pandoc 
+- install pandoc
 - install python pip
 
-```shell 
+```shell
 pip install mkdocs-material \
 pillow cairosvg mkdocs-ezlinks-plugin \
 mkdocs-table-reader-plugin \
@@ -28,3 +28,7 @@ pypandoc
 
 ## Edit mkdocs.yml
 
+update bib
+```sh
+curl https://api.zotero.org/groups/4751389/collections/VQMBK9ZP/items?format=bibtex -o ~/kfsyscc-manual/test.bib
+```
