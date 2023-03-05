@@ -28,7 +28,8 @@ pypandoc
 
 ## Edit mkdocs.yml
 
-update bib
+## update bib
+
 ```sh
-curl https://api.zotero.org/groups/4751389/collections/VQMBK9ZP/items?format=bibtex -o ~/kfsyscc-manual/test.bib
+curl https://api.zotero.org/groups/4751389/collections/VQMBK9ZP/items\?format\=bibtex -o test.bib
 ```

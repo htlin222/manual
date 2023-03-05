@@ -6,11 +6,10 @@ hide:
 date: "2023-03-03"
 ---
 
-# 和信醫院內科住院醫師手冊
+# 內科手冊
 
 ## test
-[@velasquez2022hidden]
-
+[Google](https://www.google.com/){ .md-button .md-button--primary }
 ## hello
 Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
 ```markmap
