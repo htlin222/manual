@@ -5,11 +5,13 @@ edit_uri: edit/master/docs/
 repo_url: https://github.com/htlin222/manual
 repo_name: htlin222/manual
 copyright: Copyright &copy; 2023 -  Hsieht-Ting Lin M.D. 🦎
-announcement: 你好我是臭
+announcement: 這個網站目前什麼都沒有
 extra:
   social:
     - icon: octicons/link-24
       link: https://www.kfsyscc.org/m/
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   icon:
