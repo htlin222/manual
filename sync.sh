@@ -2,7 +2,6 @@
 # title: sync
 # date created: "2023-03-08"
 
-repo="~/manual/"
 
 rsync -az --delete /Volumes/GoogleDrive/我的雲端硬碟/manual/ ~/manual/docs
 echo "sync completed successfully, will rename all the pages.yaml"
