@@ -60,6 +60,8 @@ theme:
     - announce.dismiss
     - header.autohide
     - navigation.path
+    - navigation.indexes
+    - navigation.top
     - navigation.tabs
     - navigation.sections
     - navigation.expand
