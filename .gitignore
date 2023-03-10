@@ -1,3 +1,6 @@
 site/
 *.bib
 .DS_Store
+.obsidian/
+template/
+docs/.obsidian/
