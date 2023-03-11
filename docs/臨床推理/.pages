@@ -1,3 +1,15 @@
 nav:
     - index.md
+    - Cardiac
+    - Lung
+    - GI
+    - Liver
+    - Renal
+    - Blood
+    - Electrolytes
+    - Infectious
+    - Endocrine
+    - Rheum
+    - Neuro
+    - Miscellaneous
     - ...
