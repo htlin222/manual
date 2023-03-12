@@ -7,15 +7,13 @@ date: "2023-03-11"
 
 * [Aortitis](Aortitis.md)
 
-* Aortitis Paths to the Problem
-
 * [Chest pain](Chest pain.md)
 
-* Congestive Heart Failure – HFrEF
+* [Heart Failure](Heart Failure.md)
 
 * CHF – Hyperacute Heart Failure
 
-* Dyspnea
+* [Dyspnea](Dyspnea.md)
 
 * [Heart Failure and Weight Loss](Heart Failure and Weight Loss.md)
 

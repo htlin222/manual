@@ -31,4 +31,30 @@ flowchart TD
 
 ## Superficial
 
+### MSK
+- Costochondritis
+- Rib fracture
+
+### skin
+- Zoster
+
+### Nervous
+- Thoracic radiculopathy
+
 ## Visceral
+
+### GI
+- Spasm
+- Reflux
+- Ulcers
+
+### Cardiac
+- Heart failure
+- Aortic stenosis
+
+### Pulmonary
+- Pneumonia
+- Diaphragmatic hernia
+
+### Mediastinum
+- Fat necrosis
