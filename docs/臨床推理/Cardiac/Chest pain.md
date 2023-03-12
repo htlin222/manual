@@ -12,16 +12,22 @@ flowchart TD
 	id2_1-->id2_1_1
 	id2_2-->id2_2_1
 	id2_2-->id2_2_2
-	id1[First r/o]
+	id1[First r/o Emergent_Cause]
 	id2_1[Emergent Cause]
 	id2_2[Not Emergent - Anatomical approach]
 	id2_1_1[Think 4+2+2]
 	id2_2_1[Superficial]
 	id2_2_2[Visceral]
-	click id2_1 "./#Emergent_Cause" _blank
+	click id2_1 "./#emergent-cause" _blank
 ```
 
-## Emergent_Cause
+## Emergent Cause
+| Caridac                 | Pulmonary          | Esophageal |
+|-------------------------|--------------------|------------|
+| Acute Coronary syndrome | Pulmonary Embolsim | Rupture    |
+| Aortic Dissection       | Pneumothorax       | Impaction  |
+| Tamponade               |                    |            |
+| Takotsubo               |                    |            |
 
 ## Superficial
 

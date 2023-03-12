@@ -63,7 +63,6 @@ theme:
     - navigation.indexes
     - navigation.top
     - navigation.tabs
-    - navigation.sections
     - navigation.expand
     - navigation.prune
     - navigation.footer

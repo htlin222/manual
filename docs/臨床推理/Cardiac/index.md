@@ -5,11 +5,11 @@ date: "2023-03-11"
 
 # index
 
-* Aortitis
+* [Aortitis](Aortitis.md)
 
 * Aortitis Paths to the Problem
 
-* [[Chest pain]]
+* [Chest pain](Chest pain.md)
 
 * Congestive Heart Failure – HFrEF
 
@@ -17,7 +17,7 @@ date: "2023-03-11"
 
 * Dyspnea
 
-* Heart Failure and Weight Loss
+* [Heart Failure and Weight Loss](Heart Failure and Weight Loss.md)
 
 * Hypoxemia Thought Train
 
