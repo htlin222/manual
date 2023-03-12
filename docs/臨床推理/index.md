@@ -3,7 +3,15 @@ title: "index"
 date: "2023-03-09"
 ---
 
-# index
+# 臨床推理專區
+
+## 系列文章
+
+* [The Rational Clinical Examination | JAMA Network](https://jamanetwork.com/collections/6257/the-rational-clinical-examination)
+* [Clinical Problem-Solving articles: The New England Journal of Medicine](https://www.nejm.org/medical-articles/clinical-problem-solving)
+
+## 常見的Schema (圖解)
+
 * [Cardiac/index](Cardiac/index.md)
 * [Lung/index](Lung/index.md)
 * [GI/index](GI/index.md)
@@ -16,4 +24,3 @@ date: "2023-03-09"
 * [Rheum/index](Rheum/index.md)
 * [Neuro/index](Neuro/index.md)
 * [Miscellaneous/index](Miscellaneous/index.md)
-
