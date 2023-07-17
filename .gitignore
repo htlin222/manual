@@ -5,3 +5,5 @@ site/
 template/
 **/.trash/
 docs/.obsidian/
+**/.vim_auto_session.vim
+.vim_auto_session.vim
