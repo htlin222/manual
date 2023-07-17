@@ -1,7 +1,7 @@
 site/
 *.bib
-.DS_Store
-.obsidian/
+**/.DS_Store
+**/.obsidian/
 template/
-.trash/
+**/.trash/
 docs/.obsidian/
